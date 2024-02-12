@@ -100,13 +100,13 @@ h4, p{
   list-style: none;
 }
 
-.unordered-list-of-networking-and-protocols li {
+.unordered-list-of-networking-and-protocols ul li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-.unordered-list-of-networking-and-protocols img {
+.unordered-list-of-networking-and-protocols ul li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -143,13 +143,13 @@ h4, p{
   list-style: none;
 }
 
-.unordered-list-of-programming-libraries-frameworks li {
+.unordered-list-of-programming-libraries-frameworks ul li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-.unordered-list-of-programming-libraries-frameworks img {
+.unordered-list-of-programming-libraries-frameworks ul li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -164,13 +164,13 @@ h4, p{
   list-style: none;
 }
 
-.unordered-list-of-technologies li {
+.unordered-list-of-technologies ul li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-.unordered-list-of-technologies img {
+.unordered-list-of-technologies ul li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
