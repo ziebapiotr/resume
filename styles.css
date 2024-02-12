@@ -76,12 +76,10 @@ p.address {
 }
 /* ----------------TECHNOLOGIE ---------------   */
  .technologies ul{
-height: 140px;
 display: flex;
 flex-direction: column;
 flex-wrap: wrap;
 align-content: flex-start;
-
 }
 
 .technologies li {
@@ -93,24 +91,85 @@ h4, p{
   padding: 0;
 }
 
-.unordered-list-of-operating-systems,
-.unordered-list-of-programming-languages,
-.unordered-list-of-technologies {
-  /* list-style: none; */
+/* -------Sieci/Protokoły komunikacji------ */
+
+.unordered-list-of-networking-and-protocols {
   padding: 0;
   padding-left: 20px;
+  height: 80px;
+  list-style: none;
 }
 
-.unordered-list-of-operating-systems li,
-.unordered-list-of-programming-languages li,
+.unordered-list-of-networking-and-protocols li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.unordered-list-of-networking-and-protocols img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+
+/* -----Środowiska pracy / Systemy operacyjne----- */
+
+.unordered-list-of-operating-systems {
+  padding: 0;
+  padding-left: 20px;
+  height: 130px;
+  list-style: none;
+}
+
+.unordered-list-of-operating-systems li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.unordered-list-of-operating-systems img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+/* ----unordered-list-of-programming-libraries-frameworks--- */
+
+.unordered-list-of-programming-libraries-frameworks {
+  padding: 0;
+  padding-left: 20px;
+  height: 110px;
+  list-style: none;
+}
+
+.unordered-list-of-programming-libraries-frameworks li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.unordered-list-of-programming-libraries-frameworks img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+/* ---- Narzędzia/Technologie --- */
+
+.unordered-list-of-technologies {
+  padding: 0;
+  padding-left: 20px;
+  height: 110px;
+  list-style: none;
+}
+
 .unordered-list-of-technologies li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-.unordered-list-of-operating-systems img,
-.unordered-list-of-programming-languages,
 .unordered-list-of-technologies img {
   width: 20px;
   height: 20px;
