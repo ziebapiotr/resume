@@ -75,9 +75,8 @@ p.address {
   color: black;
 }
 /* ----------------TECHNOLOGIE ---------------   */
-
  .technologies ul{
-height: 150px;
+height: 140px;
 display: flex;
 flex-direction: column;
 flex-wrap: wrap;
@@ -94,18 +93,24 @@ h4, p{
   padding: 0;
 }
 
+.unordered-list-of-operating-systems,
+.unordered-list-of-programming-languages,
 .unordered-list-of-technologies {
   /* list-style: none; */
   padding: 0;
   padding-left: 20px;
 }
 
+.unordered-list-of-operating-systems li,
+.unordered-list-of-programming-languages li,
 .unordered-list-of-technologies li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
+.unordered-list-of-operating-systems img,
+.unordered-list-of-programming-languages img,
 .unordered-list-of-technologies img {
   width: 20px;
   height: 20px;
