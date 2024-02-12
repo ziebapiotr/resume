@@ -128,7 +128,7 @@ h4, p{
   margin-bottom: 5px;
 }
 
-.unordered-list-of-operating-systems li img {
+.unordered-list-of-operating-systems img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -149,7 +149,7 @@ h4, p{
   margin-bottom: 5px;
 }
 
-.unordered-list-of-programming-libraries-frameworks li img {
+.unordered-list-of-programming-libraries-frameworks img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -170,7 +170,7 @@ h4, p{
   margin-bottom: 5px;
 }
 
-.unordered-list-of-technologies li img {
+.unordered-list-of-technologies img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
