@@ -93,20 +93,20 @@ h4, p{
 
 /* -------Sieci/Protokoły komunikacji------ */
 
-h2 .unordered-list-of-networking-and-protocols {
+.unordered-list-of-networking-and-protocols {
   padding: 0;
   padding-left: 20px;
   height: 80px;
   list-style: none;
 }
 
-h2 .unordered-list-of-networking-and-protocols ul li {
+.unordered-list-of-networking-and-protocols li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-h2 .unordered-list-of-networking-and-protocols ul li img {
+.unordered-list-of-networking-and-protocols li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -115,20 +115,20 @@ h2 .unordered-list-of-networking-and-protocols ul li img {
 
 /* -----Środowiska pracy / Systemy operacyjne----- */
 
-h2 .unordered-list-of-operating-systems {
+.unordered-list-of-operating-systems {
   padding: 0;
   padding-left: 20px;
   height: 130px;
   list-style: none;
 }
 
-h2 .unordered-list-of-operating-systems ul li {
+.unordered-list-of-operating-systems li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-h2 .unordered-list-of-operating-systems ul li img {
+.unordered-list-of-operating-systems li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -136,20 +136,20 @@ h2 .unordered-list-of-operating-systems ul li img {
 
 /* ----unordered-list-of-programming-libraries-frameworks--- */
 
-h2 .unordered-list-of-programming-libraries-frameworks {
+.unordered-list-of-programming-libraries-frameworks {
   padding: 0;
   padding-left: 20px;
   height: 110px;
   list-style: none;
 }
 
-h2 .unordered-list-of-programming-libraries-frameworks ul li {
+.unordered-list-of-programming-libraries-frameworks li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-h2 .unordered-list-of-programming-libraries-frameworks ul li img {
+.unordered-list-of-programming-libraries-frameworks li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -157,20 +157,20 @@ h2 .unordered-list-of-programming-libraries-frameworks ul li img {
 
 /* ---- Narzędzia/Technologie --- */
 
-h2 .unordered-list-of-technologies {
+.unordered-list-of-technologies {
   padding: 0;
   padding-left: 20px;
   height: 110px;
   list-style: none;
 }
 
-h2 .unordered-list-of-technologies ul li {
+.unordered-list-of-technologies li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-h2 .unordered-list-of-technologies ul li img {
+.unordered-list-of-technologies li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
