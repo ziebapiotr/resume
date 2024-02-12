@@ -84,7 +84,9 @@ align-content: flex-start;
 
 }
 
-.technologies li {
+.technologies li .unordered-list-of-operating-systems,
+.technologies li .unordered-list-of-programming-languages,
+.technologies li .unordered-list-of-technologies{
   width: 200px;
 }
 
