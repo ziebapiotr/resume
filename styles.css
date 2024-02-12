@@ -107,8 +107,8 @@ h4, p{
 }
 
 .unordered-list-of-networking-and-protocols img {
-  width: 20px;
-  /* height: 20px; */
+ /* width: 20px; */
+  height: 20px;
   margin-right: 10px;
 }
 
@@ -129,8 +129,8 @@ h4, p{
 }
 
 .unordered-list-of-operating-systems img {
-  width: 20px;
-  /* height: 20px; */
+ /* width: 20px; */
+  height: 20px;
   margin-right: 10px;
 }
 
@@ -150,8 +150,8 @@ h4, p{
 }
 
 .unordered-list-of-programming-libraries-frameworks img {
-  width: 20px;
-  /* height: 20px; */
+ /* width: 20px; */
+  height: 20px;
   margin-right: 10px;
 }
 
@@ -171,8 +171,8 @@ h4, p{
 }
 
 .unordered-list-of-technologies img {
-  width: 20px;
-  /* height: 20px; */
+ /* width: 20px; */
+  height: 20px;
   margin-right: 10px;
 }
 
