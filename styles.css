@@ -93,20 +93,20 @@ h4, p{
 
 /* -------Sieci/Protokoły komunikacji------ */
 
-.unordered-list-of-networking-and-protocols {
+h2 .unordered-list-of-networking-and-protocols {
   padding: 0;
   padding-left: 20px;
   height: 80px;
   list-style: none;
 }
 
-.unordered-list-of-networking-and-protocols ul li {
+h2 .unordered-list-of-networking-and-protocols ul li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-.unordered-list-of-networking-and-protocols ul li img {
+h2 .unordered-list-of-networking-and-protocols ul li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -115,20 +115,20 @@ h4, p{
 
 /* -----Środowiska pracy / Systemy operacyjne----- */
 
-.unordered-list-of-operating-systems {
+h2 .unordered-list-of-operating-systems {
   padding: 0;
   padding-left: 20px;
   height: 130px;
   list-style: none;
 }
 
-.unordered-list-of-operating-systems ul li {
+h2 .unordered-list-of-operating-systems ul li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-.unordered-list-of-operating-systems ul li img {
+h2 .unordered-list-of-operating-systems ul li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -136,20 +136,20 @@ h4, p{
 
 /* ----unordered-list-of-programming-libraries-frameworks--- */
 
-.unordered-list-of-programming-libraries-frameworks {
+h2 .unordered-list-of-programming-libraries-frameworks {
   padding: 0;
   padding-left: 20px;
   height: 110px;
   list-style: none;
 }
 
-.unordered-list-of-programming-libraries-frameworks ul li {
+h2 .unordered-list-of-programming-libraries-frameworks ul li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-.unordered-list-of-programming-libraries-frameworks ul li img {
+h2 .unordered-list-of-programming-libraries-frameworks ul li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
@@ -157,20 +157,20 @@ h4, p{
 
 /* ---- Narzędzia/Technologie --- */
 
-.unordered-list-of-technologies {
+h2 .unordered-list-of-technologies {
   padding: 0;
   padding-left: 20px;
   height: 110px;
   list-style: none;
 }
 
-.unordered-list-of-technologies ul li {
+h2 .unordered-list-of-technologies ul li {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
 
-.unordered-list-of-technologies ul li img {
+h2 .unordered-list-of-technologies ul li img {
   width: 20px;
   height: 20px;
   margin-right: 10px;
