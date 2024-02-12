@@ -77,7 +77,7 @@ p.address {
 /* ----------------TECHNOLOGIE ---------------   */
 
  .technologies ul{
-height: 180px;
+height: 150px;
 display: flex;
 flex-direction: column;
 flex-wrap: wrap;
