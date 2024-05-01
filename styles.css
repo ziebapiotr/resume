@@ -81,7 +81,7 @@ body {
   /* -------------------------------------------------- */
 
   .technologies ul{
-    height: 230px;
+    height: 175px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
