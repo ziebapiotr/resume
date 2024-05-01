@@ -13,16 +13,16 @@ body {
     font-size: 18px;
     padding-bottom: 10px;
   }
+/* linia separacyjna miedzy sekcjami, poza pierwszą */
 
-  .section:not(:first-child) {
+.section:not(:first-child) {
     border-top: 1px solid #ccc;
     padding-top:10px;
     margin-top: 30px;
     width: 950px;
-  
   }
-
-  .header{
+  /* ------ Pierwsza sekcja ze zdjęciem i danymi kontaktowymi --- */
+.header{
     display: flex;
   }
   
@@ -51,6 +51,21 @@ body {
     padding-top: 3px;
    
   }
+
+  .personal-info img{
+    max-width: 14px;
+    max-height: 14px;
+    display: inline;
+    margin-right: 3px;
+  
+  }
+
+  .phone img, .email img, .linkedin img, .github img{
+    position: absolute;
+    margin-left: -22px;
+    padding-top: 3px;
+  }
+  
 
   .linkedin a{
     text-decoration: none;
